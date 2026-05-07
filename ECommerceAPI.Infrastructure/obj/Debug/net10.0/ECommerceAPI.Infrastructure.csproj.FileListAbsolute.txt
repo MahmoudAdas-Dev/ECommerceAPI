@@ -1,0 +1,17 @@
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\bin\Debug\net10.0\ECommerceAPI.Infrastructure.deps.json
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\bin\Debug\net10.0\ECommerceAPI.Infrastructure.runtimeconfig.json
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\bin\Debug\net10.0\ECommerceAPI.Infrastructure.dll
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\bin\Debug\net10.0\ECommerceAPI.Infrastructure.pdb
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\bin\Debug\net10.0\ECommerceAPI.Domain.dll
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\bin\Debug\net10.0\ECommerceAPI.Domain.pdb
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerceAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerceAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerceAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerceAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerceAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerc.89EB8045.Up2Date
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerceAPI.Infrastructure.dll
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\refint\ECommerceAPI.Infrastructure.dll
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerceAPI.Infrastructure.pdb
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ECommerceAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\mahmo\Desktop\#1\ECommerce\ECommerceAPI.Infrastructure\obj\Debug\net10.0\ref\ECommerceAPI.Infrastructure.dll
