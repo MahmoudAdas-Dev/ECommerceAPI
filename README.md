@@ -238,4 +238,4 @@ This project is licensed under the MIT License.
 **Mahmoud Adas**
 
 - GitHub: [@MahmoudAdas-Dev](https://github.com/MahmoudAdas-Dev)
-- LinkedIn: [Add your LinkedIn here]
+- LinkedIn: [Mahmoud Adas](https://www.linkedin.com/in/mahmoud-adas12)
