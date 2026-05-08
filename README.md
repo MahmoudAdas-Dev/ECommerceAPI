@@ -108,11 +108,31 @@ Open your browser at: **http://localhost:5000/swagger**
 # Build the image
 docker build -t ecommerce-api -f ECommerceAPI.API/Dockerfile .
 
-# Run the container
+# Run the container without data persistence
 docker run -p 8080:8080 -e ASPNETCORE_ENVIRONMENT=Development ecommerce-api
+
+
+
 ```
 
+## 🐳 Docker
+
+### Run with data persistence (recommended)
+
+```bash
+docker run -p 8080:8080 \
+  -e ASPNETCORE_ENVIRONMENT=Development \
+  -v ecommerce-data:/app \
+  ecommerce-api
+```
+
+> ⚠️ Without a volume, data is lost when the container stops.
+> Use `-v ecommerce-data:/app` to persist the SQLite database.
+
 Open your browser at: **http://localhost:8080/swagger**
+
+````
+
 
 ---
 
@@ -139,7 +159,7 @@ Content-Type: application/json
   "price": 999.99,
   "stock": 10
 }
-```
+````
 
 ### Example Response
 
